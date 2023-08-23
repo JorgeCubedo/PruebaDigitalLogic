@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603085923680",
+    "project_id": "prueba-digitallogic",
+    "storage_bucket": "prueba-digitallogic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603085923680:android:7ae14e58fdee1041c52a05",
+        "android_client_info": {
+          "package_name": "com.cube.pruebadigitallogic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603085923680-07il96p49r35gastf8vchth1jrpg5051.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYqlJmfcNAYJtNpKUQxVfoFau-iuCSU0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603085923680-07il96p49r35gastf8vchth1jrpg5051.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
